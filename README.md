@@ -1,2 +1,2 @@
 # Code-Pipeline
-AWS Trailning
+AWS Training
